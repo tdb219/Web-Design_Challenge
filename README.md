@@ -1,6 +1,6 @@
 # Web-Design_Challenge
 
-Created a weather data website using HTML and CSS (Bootstrap).
+This is a weather data website created using HTML and CSS (Bootstrap).
 
 It contains seven pages.  Four are scatter plot visualizations that compare Latitude to Maximum Temperature, Humidity, Cloudiness and Wind Speed from around the world. Each contains its own brief description.
 
