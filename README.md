@@ -6,4 +6,4 @@ It contains seven pages.  Four are scatter plot visualizations that compare Lati
 
 Another page is a Comparison page that presents all four visualizations at once.
 
-Finally, the last page contains the data used to generate the visualizations, converted from a CSV file to HTML.
+Finally, the final page is the Data page. It contains the data used to generate the visualizations, converted from a CSV file to HTML.
